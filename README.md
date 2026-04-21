@@ -2,7 +2,7 @@
 
 ## Évaluation des biais linguistiques et des raccourcis statistiques dans un Transformer dédié à l’analyse de sentiment
 
-## ---------------------------------------------------- Fichiers -------------------------------------------------------
+## ------------------------------- Fichiers -------------------------------------
 
 ### Fichiers principaux du projet
 - `train.py` : script d'entraînement du modèle.
@@ -16,7 +16,7 @@
 - `README.md` : ce même fichier de documentation dans lequel vous vous trouvez.
 
 
-## ----------------------------------------------------- Guide ---------------------------------------------------------
+## --------------------------------- Guide --------------------------------------
 
 Avant d'exécuter du code, que ce soit pour les fichiers `.py` ou `.ipynb`:
 
@@ -46,3 +46,4 @@ python -m pip install --upgrade pip
 ```bash
 python -m pip install -r requirements.txt
 ```
+
